@@ -59,3 +59,6 @@ It also highlights:
 ---
 
 ## 📂 Project Structure
+
+
+🔗 Live Demo: https://ai-resume-ranker-gxjfcrsqnqjxf7dq9tegug.streamlit.app/
